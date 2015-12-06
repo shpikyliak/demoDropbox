@@ -1,0 +1,35 @@
+.form-control
+{
+    width: 200px;
+}
+
+#formReg
+{
+    margin:20px  auto ;
+    width: 300px;
+}
+#back
+{
+    float: right;
+    height: 25px;
+    line-height: 25px;
+    padding-top: 0;
+}
+.breadcrumb
+{
+    margin-bottom: 0;
+}
+
+.btn-danger
+{
+    float: right;
+}
+#formUpload
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.dopInf
+{
+    display: inline!important;
+}
